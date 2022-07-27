@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Desktop- Computer",
+        "price": 1000,
+        "image": "https://microless.com/cdn/products/0f9bf9d609b30a6dbf3e03ac06dc5e94-hi.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Laptop- Computer",
+        "price": 800,
+        "image":"https://m.media-amazon.com/images/I/61yfiaWp1BS.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Keyboard",
+        "price": 300,
+        "image":"https://history-computer.com/wp-content/uploads/2021/01/computer-keyboard-1200x803.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Mouse",
+        "price": 100,
+        "image":"https://cdn.miniso.com.tr/mouse-27819-klavye-ve-mouse-miniso-52892-27-O.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Mouse-Pad",
+        "price": 50,
+        "image":"https://mcdn01.gittigidiyor.net/72158/721587759_0.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Head Phone",
+        "price": 150,
+        "image":"https://lzd-img-global.slatic.net/g/p/d58d03f03ef04015029d601f08357c01.jpg_720x720q80.jpg_.webp"
+    },
+    {
+        "id": 7,
+        "title": "Air Pods",
+        "price": 350,
+        "image":"https://i.guim.co.uk/img/media/fa36d7a2b93ef5ba25931bbfbe3e6780695ffb41/583_494_4667_2802/master/4667.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=e2d5d444a5311d08e3436af90cc6c2dc"
+    },
+    {
+        "id": 8,
+        "title": "Screen",
+        "price": 750,
+        "image":"https://www.pcrichard.com/dw/image/v2/BFXM_PRD/on/demandware.static/-/Sites-pcrichard-master-product-catalog/default/dwed307cb7/images/hires/AZ1_V24.jpg?sw=800&sh=800&sm=fit"
+    }
+]
